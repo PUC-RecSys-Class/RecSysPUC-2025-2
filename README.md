@@ -37,11 +37,11 @@ Los contenidos de las semanas 1, 2 y 4 los puedes revisar a tu ritmo en este cur
 | Semana  | Tema             | link slide(s) | 
 |:--------|:-----------------|:-------------:|
 | 1       | **Introducción**                                          | x    | 
-| 2       | **Ranking no personalizado y Filtrado colaborativo (FC)** | [slides](https://github.com/denisparra/RecSysPUC-2024/blob/master/clases/s1-c2-nonpers-UBCF.pdf)    | 
-| 2       | **User-based FC con clustering**                          | [slides](https://github.com/denisparra/RecSysPUC-2024/blob/master/clases/s1-c2-UBCF_clustering.pdf)    | 
-| 2       | Pendiente Uno                                         | [slides](https://github.com/denisparra/RecSysPUC-2024/blob/master/clases/s1-c2-SlopeOne.pdf)    | 
-| 2       | **Item-based FC**                                         | [slides](https://github.com/denisparra/RecSysPUC-2024/blob/master/clases/s2_c1-IBCF.pdf)    | 
-| 2       | **Factorización Matricial: FunkSVD**                      | [slides](https://github.com/denisparra/RecSysPUC-2024/blob/master/clases/s2_c2-Factorizacion_matricial.pdf)    |
+| 2       | **Ranking no personalizado y Filtrado colaborativo (FC)** | [slides](./blob/master/clases/s1-c2-nonpers-UBCF.pdf)    | 
+| 2       | **User-based FC con clustering**                          | [slides](./blob/master/clases/s1-c2-UBCF_clustering.pdf)    | 
+| 2       | Pendiente Uno                                         | [slides](./blob/master/clases/s1-c2-SlopeOne.pdf)    | 
+| 2       | **Item-based FC**                                         | [slides](./blob/master/clases/s2_c1-IBCF.pdf)    | 
+| 2       | **Factorización Matricial: FunkSVD**                      | [slides](./blob/master/clases/s2_c2-Factorizacion_matricial.pdf)    |
 | 3       | Implicit Feedback CF                                  | [slides](https://github.com/denisparra/RecSysPUC-2024/blob/master/clases/s3_c1-Implicit-feedback.pdf)    |
 | 3       | Bayesian Personalized Ranking (BPR)                   | [slides](https://github.com/denisparra/RecSysPUC-2024/blob/master/clases/s3_c2-BPR.pdf)    |
 | 4       | Evaluación: metricas de error y ranking               | [slides](./clases/s4_c1-metricas_v2.pdf)    | [video](https://drive.google.com/file/d/1Rr_-3HF4Bkal_RV1036A9PjwZX-fAcYj/view?usp=sharing)    |   [slides P Castells LARS 2019](http://ir.ii.uam.es/castells/lars2019.pdf)                |
