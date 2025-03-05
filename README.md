@@ -72,7 +72,7 @@ Este curso adscribe el Código de Honor establecido por la Escuela de Ingenierí
 
 ### Evaluaciones
 
-Detalles de las evaluaciones en [esta presentacion](https://uccl0-my.sharepoint.com/:p:/g/personal/dparras_uc_cl/Ecai9T_qNFhEgRdkanFN3K0BrEfq59CHT9JLkg4cSkAerQ?e=0IShzH)
+Detalles de las evaluaciones en [esta presentacion](https://uccl0-my.sharepoint.com/:p:/g/personal/dparras_uc_cl/EZ8G_FkyCKJAt6Fx23H7GWkBKl6ZeEdF9v222wJ5vAD5kA?e=9CvDt5)
 
 **Prácticos (10%)** 
 
