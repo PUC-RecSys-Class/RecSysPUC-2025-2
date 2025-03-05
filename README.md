@@ -13,8 +13,7 @@ Marzo-Julio 2025
 **Horario cátedra**: Martes y Jueves, Módulo 3, sala K303 (11:00 a 12:10).\
 **Horario ayudantía**: Lunes, Módulo 5, sala H1 (14:50 a 16:00).
 
-**Sitio web lecturas**
-Sitio para ingresar comentarios a lecturas: [Perusall](https://app.perusall.com/join/parra-4ua48)
+**Sitio web lecturas**: [Perusall](https://app.perusall.com/join/parra-4ua48)
 
 **Programa** IIC3633, 1er Semestre 2025: [pdf](https://dparra.sitios.ing.uc.cl/pdfs/IIC3633Sist%20Recomendadores_v5.pdf).
 
