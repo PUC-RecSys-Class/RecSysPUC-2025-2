@@ -105,7 +105,7 @@ Durante abril, las(los) estudiantes enviarán una idea de proyecto final, la cua
 **Obligatorias**  
 * Kluver, D., Ekstrand, M. D., & Konstan, J. A. (2018). Rating-based collaborative filtering: algorithms and evaluation. Social information access: Systems and technologies, 344-390.
 [pdf](https://doi.org/10.1007/978-3-319-90092-6_10)
-**secciones (1-4)**
+**secciones (1-6)**
 
 **Sugeridas**
 * Schafer, J. B., Frankowski, D., Herlocker, J., & Sen, S. (2007). Collaborative filtering recommender systems. In The adaptive web (pp. 291-324). Springer Berlin Heidelberg. [pdf](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.130.4520&rep=rep1&type=pdf)
@@ -119,7 +119,7 @@ Durante abril, las(los) estudiantes enviarán una idea de proyecto final, la cua
 
 * Kluver, D., Ekstrand, M. D., & Konstan, J. A. (2018). Rating-based collaborative filtering: algorithms and evaluation. Social information access: Systems and technologies, 344-390.
 [pdf](https://doi.org/10.1007/978-3-319-90092-6_10)
-**secciones (5-7)**
+**secciones (7-9)**
 
 **Sugeridas**  
 * Hu, Y., Koren, Y., & Volinsky, C. (2008). Collaborative filtering for implicit feedback datasets. In Data Mining, 2008. ICDM’08. Eighth IEEE International Conference on (pp. 263-272). IEEE.  
