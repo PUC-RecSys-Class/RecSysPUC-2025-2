@@ -36,9 +36,9 @@ Los contenidos de las semanas 1, 2 y 4 los puedes revisar a tu ritmo en este cur
 
 | Semana  | Tema             | link slide(s) | 
 |:--------|:-----------------|:-------------:|
-| 1       | **Introducción**                                          | x    | 
+| 1       | **PPT Evaluaciones**                                          | [slides](https://uccl0-my.sharepoint.com/:p:/g/personal/dparras_uc_cl/Ecai9T_qNFhEgRdkanFN3K0BrEfq59CHT9JLkg4cSkAerQ?e=0IShzH)    | 
 | 2       | **Ranking no personalizado y Filtrado colaborativo (FC)** | [slides](./clases/s1-c2-nonpers-UBCF.pdf)    | 
-| 2       | **User-based FC con clustering**                          | [slides](./clases/s1-c2-UBCF_clustering.pdf)    | 
+| 2       | User-based FC con clustering                          | [slides](./clases/s1-c2-UBCF_clustering.pdf)    | 
 | 2       | Pendiente Uno                                         | [slides](./clases/s1-c2-SlopeOne.pdf)    | 
 | 2       | **Item-based FC**                                         | [slides](./clases/s2_c1-IBCF.pdf)    | 
 | 2       | **Factorización Matricial: FunkSVD**                      | [slides](./clases/s2_c2-Factorizacion_matricial.pdf)    |
@@ -72,7 +72,7 @@ Este curso adscribe el Código de Honor establecido por la Escuela de Ingenierí
 
 ### Evaluaciones
 
-Detalles de las evaluaciones en [esta presentacion]([https://docs.google.com/presentation/d/1d_6YWfC27eKRP8d_waaUllwHjPwl6wEnmObVMf2t8XA/](https://uccl0-my.sharepoint.com/:p:/g/personal/dparras_uc_cl/Ecai9T_qNFhEgRdkanFN3K0BrEfq59CHT9JLkg4cSkAerQ?e=0IShzH))
+Detalles de las evaluaciones en [esta presentacion](https://uccl0-my.sharepoint.com/:p:/g/personal/dparras_uc_cl/Ecai9T_qNFhEgRdkanFN3K0BrEfq59CHT9JLkg4cSkAerQ?e=0IShzH)
 
 **Prácticos (10%)** 
 
