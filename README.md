@@ -1,34 +1,25 @@
 # IIC3633 Sistemas Recomendadores
-Agosto-Diciembre 2024
+Marzo-Julio 2025
 
 ### Equipo Docente e Información Administrativa
 **Instructor**: [Denis Parra](http://dparra.sitios.ing.uc.cl), Profesor Asociado PUC Chile, Ph.D. University of Pittsburgh
 
-**Ayudantes**:  
-[Pablo Messina](#), Estudiante de Doctorado, Ciencia de la Computación PUC Chile.  <br/>
-[Carlos Muñoz](#), Estudiante de Doctorado, Ciencia de la Computación PUC Chile.    <br/>
-[Alejandro Plaza](#), Estudiante de Ingeniería, Ciencia de la Computación PUC Chile.    <br/>
-[Daniel Sebastian](#), Estudiante de Ingeniería, Ciencia de la Computación PUC Chile.    <br/>
+**Ayudantes**:
+* [Alejandro Plaza](#), Estudiante de Magíster, Ciencia de la Computación PUC Chile.
+* [Daniel Sebastian](#), Estudiante de Magíster, Ciencia de la Computación PUC Chile.
  
 **Institución**: Pontificia Universidad Católica de Chile
 
-**Horario cátedra**: Martes y Jueves, Módulo 3, sala B24 (11:00 a 12:10).<br/>
-**Horario ayudantía**: Lunes, Módulo 5, sala B23 (14:50 a 16:00).<br/>
+**Horario cátedra**: Martes y Jueves, Módulo 3, sala K303 (11:00 a 12:10).\
+**Horario ayudantía**: Lunes, Módulo 5, sala H1 (14:50 a 16:00).
 
-**Sitio web lecturas**
-Sitio para ingresar comentarios a lecturas: [Perusall](https://app.perusall.com/join/parra-4ua48)
+**Sitio web lecturas**: [Perusall](https://app.perusall.com/join/parra-4ua48)
 
-Programa IIC 3633, 2do Semestre 2024: [pdf](https://dparra.sitios.ing.uc.cl/pdfs/IIC3633Sist%20Recomendadores_v5.pdf).
+**Programa** IIC3633, 1er Semestre 2025: [pdf](https://dparra.sitios.ing.uc.cl/pdfs/IIC3633Sist%20Recomendadores_v5.pdf).
 
 ### AVISOS
 
-* (15/10) Se encuentra disponible la [agenda de presentaciones de seminario](https://uccl0-my.sharepoint.com/:x:/g/personal/aplaza2_uc_cl/EQ4gD5uju9VIjmJHgTwEu8EBDMgZUGjgfDIzWkb3nqSeEw?rtime=WszXeoPs3Eg). La rúbrica puedes encontrarla en la [slide 11 de la ppt de evaluaciones](https://docs.google.com/presentation/d/1d_6YWfC27eKRP8d_waaUllwHjPwl6wEnmObVMf2t8XA/edit#slide=id.g2c07278fdc2_1_117) y ejemplos de presentaciones y videos los puedes encontrar en el [repo del curso del 2020](https://github.com/PUC-RecSys-Class/RecSysPUC-2020/).
-* (15/10) Notas de la tarea 1 están publicadas. Revisa el link en ANUNCIOS de Canvas.
-* (04/10) Se encuentra disponible la lista de proyectos para inscribir grupos de proyecto final en [este enlace](https://docs.google.com/spreadsheets/d/1RJHX6kI2GW7kJeIQ8ETCn0HFWUIdFLN3QN-2gWxogrY/edit?usp=sharing).
-* (30/09) Se encuentra disponible la lista de artículos para inscribir grupos de seminario en [este enlace](https://uccl0-my.sharepoint.com/:x:/r/personal/daniel_sebastian_uc_cl/Documents/RecSys%202024-2/Seminario%20RecSys%202024%20-%202do%20sem%20(editable).xlsx?d=wd370d1dc2392461bbcf3602fcd84e37d&csf=1&web=1&e=Q2Wsm3).
-* (16/09) El [enunciado del proyecto](./proyecto/Enunciado_Proyecto_Final_RecSys_2024_2.pdf) se encuentra disponible.
-* (20/08) [Enunciado de la tarea 1](./tareas/Tarea_1_RecSys_2024_2_Beers.pdf) se encuentra disponible
-* (06/08) Calendario de actividades del curso actualizado
+Se dejarán enlaces a recursos importantes del curso a medida que vaya avanzando el semestre.
 
 ### Descripción del Curso
 
