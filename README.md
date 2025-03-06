@@ -84,7 +84,7 @@ Al final de las primeras 4 semanas, las(los) estudiantes implementarán mecanism
 
 **Lecturas Semanales (5%)**
 
-Cada alumno debe crear una cuenta en el sitio [Perusall](https://app.perusall.com) con su correo UC (codigo de curso **4XNH9**). Cada semana deberá escribir 5 comentarios propios y 2 comentarios respondiendo a sus compañeros en los módulos de las lecturas marcadas como obligatorias.
+Cada alumno debe crear una cuenta en el sitio [Perusall](https://app.perusall.com) con su correo UC (codigo de curso **PARRA-4XNH9**). Cada semana deberá escribir 5 comentarios propios y 2 comentarios respondiendo a sus compañeros en los módulos de las lecturas marcadas como obligatorias.
 
 Para descargar los archivos se sugiere buscarlos en [Scholar](https://scholar.google.cl) o a través de [EZProxy](https://login.pucdechile.idm.oclc.org/).
 
