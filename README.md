@@ -5,8 +5,8 @@ Marzo-Julio 2025
 **Instructor**: [Denis Parra](http://dparra.sitios.ing.uc.cl), Profesor Asociado PUC Chile, Ph.D. University of Pittsburgh
 
 **Ayudantes**:
-* [Alejandro Plaza](#), Estudiante de Magíster, Ciencia de la Computación PUC Chile.
-* [Daniel Sebastian](#), Estudiante de Magíster, Ciencia de la Computación PUC Chile.
+* [Alejandro Plaza](#), Estudiante de Magíster, Ciencia de la Computación PUC Chile (aplaza2@uc.cl).
+* [Daniel Sebastian](#), Estudiante de Magíster, Ciencia de la Computación PUC Chile (daniel.sebastian@uc.cl).
  
 **Institución**: Pontificia Universidad Católica de Chile
 
