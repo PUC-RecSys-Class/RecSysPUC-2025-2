@@ -41,9 +41,9 @@ Los contenidos de las semanas 1, 2 y 4 los puedes revisar a tu ritmo en este cur
 | 2       | User-based FC con clustering                          | [slides](./clases/s1-c2-UBCF_clustering.pdf)    | 
 | 2       | Pendiente Uno                                         | [slides](./clases/s1-c2-SlopeOne.pdf)    | 
 | 2       | **Item-based FC**                                         | [slides](./clases/s2_c1-IBCF.pdf)    | 
-| 2       | **Factorización Matricial: FunkSVD**                      | [slides](./clases/s2_c2-Factorizacion_matricial.pdf)    |
-| 3       | Implicit Feedback CF                                  | [slides](https://github.com/denisparra/RecSysPUC-2024/blob/master/clases/s3_c1-Implicit-feedback.pdf)    |
-| 3       | Bayesian Personalized Ranking (BPR)                   | [slides](https://github.com/denisparra/RecSysPUC-2024/blob/master/clases/s3_c2-BPR.pdf)    |
+| 2       | **Factorización Matricial: FunkSVD**                      | [slides](./clases/s2_c2-Factorizacion_matricial.pdf) ([apunte FunkSVD](./clases/FunkSVD_2025_iic3633.pdf))   |
+| 3       | **Implicit Feedback CF**                                  | [slides](./clases/s3_c1-Implicit-feedback.pdf)    |
+| 3       | **Bayesian Personalized Ranking (BPR)**                   | [slides](./clases/s3_c2-BPR.pdf)    |
 | 4       | Evaluación: metricas de error y ranking               | [slides](./clases/s4_c1-metricas_v2.pdf)    | [video](https://drive.google.com/file/d/1Rr_-3HF4Bkal_RV1036A9PjwZX-fAcYj/view?usp=sharing)    |   [slides P Castells LARS 2019](http://ir.ii.uam.es/castells/lars2019.pdf)                |
 | 4       | Evaluación II: Cobertura, diversidad, novedad                        | [slides](./clases/s4_c1-metricas_v2.pdf)    | 
 | 4       | Evaluación III: Tests estadísticos                        | [slides](./clases/s4_c2-tests_estadisticos.pdf)     |
@@ -63,6 +63,10 @@ Los contenidos de las semanas 1, 2 y 4 los puedes revisar a tu ritmo en este cur
 | 11       |  GNNs para SR | [slides](./clases/s11_c1_gnn_for_recsys.pdf) |
 | 11      | Sistemas Justos, Explicables y Transparentes                              | [slides](./clases/s11_FAccT.pdf)    | 
 | 12       | 10 problemas en Sistemas de Recomendación                                     |   [slides](./clases/s12_c2_10bigproblems-recsys-small.pdf)       | 
+
+### Planficación 2025-I
+
+![Image](https://github.com/user-attachments/assets/fdced65a-c927-475e-bf1c-fb224305fbb7)
 
 ### Código de Honor
 
@@ -132,20 +136,19 @@ Durante abril, las(los) estudiantes enviarán una idea de proyecto final, la cua
 * El siguiente paper es opcional, pero permite entender cómo se deriva <a href="https://www.codecogs.com/eqnedit.php?latex=y_i=(X^TC^iX&plus;&space;\lambda&space;I)^{-1}&space;X^TC^ip(i)" target="_blank"><img src="https://latex.codecogs.com/gif.latex?y_i=(X^TC^iX&plus;&space;\lambda&space;I)^{-1}&space;X^TC^ip(i)" title="y_i=(X^TC^iX+ \lambda I)^{-1} X^TC^ip(i)" /></a> e <a href="https://www.codecogs.com/eqnedit.php?latex=x_u=(Y^TC^uY&plus;&space;\lambda&space;I)^1&space;Y^TC^up(u)" target="_blank"><img src="https://latex.codecogs.com/gif.latex?x_u=(Y^TC^uY&plus;&space;\lambda&space;I)^{-1}&space;Y^TC^up(u)" title="x_u=(Y^TC^uY+ \lambda I)^1 Y^TC^up(u)" /></a> del paper de Hu et al.: Takács, G., Pilászy, I., & Tikk, D. (2011). Applications of the conjugate gradient method for implicit feedback collaborative filtering. In Proceedings of the fifth ACM conference on Recommender systems (pp. 297-300). ACM.
 * Verstrepen, K., Bhaduriy, K., Cule, B., & Goethals, B. (2017). Collaborative filtering for binary, positiveonly data. ACM Sigkdd Explorations Newsletter, 19(1), 1-21.
 
-<!-- ### Semana 3 (entrega el 26 de Agosto):
+### Semana 3 (entrega 22 de abril):
 
 **Obligatorias**  
-* Kluver, D., Ekstrand, M. D., & Konstan, J. A. (2018). Rating-based collaborative filtering: algorithms and evaluation. Social information access: Systems and technologies, 344-390.
-[pdf](https://doi.org/10.1007/978-3-319-90092-6_10)
-**secciones (8-10)**
+* Xin, X., Karatzoglou, A., Arapakis, I., & Jose, J. M. (2020, July). Self-supervised reinforcement learning for recommender systems. In Proceedings of the 43rd International ACM SIGIR conference on research and development in Information Retrieval (pp. 931-940).
 
 **Sugeridas**  
-* Eva Zangerle and Christine Bauer. 2022. Evaluating Recommender Systems: Survey and Framework. ACM Comput. Surv. Just Accepted (July 2022). https://doi.org/10.1145/3556536
-* Krichene, W., & Rendle, S. (2022). On sampled metrics for item recommendation. Communications of the ACM, 65(7), 75-83. https://dl.acm.org/doi/pdf/10.1145/3535335
-* Guy, S., & Gunawardana, A.. (2011) “Evaluating recommendation systems.” In Recommender systems handbook, pp. 257-297. Springer US, 2011. [pdf](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.712.4138&rep=rep1&type=pdf)
-* Herlocker, J. L., Konstan, J. A., Terveen, L. G., & Riedl, J. T. (2004). Evaluating collaborative filtering recommender systems. ACM Transactions on Information Systems (TOIS), 22(1), 5-53.  
-* Cremonesi, P., Koren, Y., & Turrin, R. (2010). Performance of recommender algorithms on top-n recommendation tasks. In Proceedings of the fourth ACM conference on Recommender systems (pp. 39-46). ACM.  
+* Cañamares, R., Redondo, M., & Castells, P. (2019). Multi-armed recommender system bandit ensembles. In Proceedings of the 13th ACM Conference on Recommender Systems (pp. 432-436).
+* Bendada, W., Salha, G., & Bontempelli, T. (2020). Carousel Personalization in Music Streaming Apps with Contextual Bandits. In Fourteenth ACM Conference on Recommender Systems (pp. 420-425).
+* Lacerda, A., Santos, R. L., Veloso, A., & Ziviani, N. (2015). Improving daily deals recommendation using explore-then-exploit strategies. Information Retrieval Journal, 18(2), 95-122.
+* Guillou, F., Gaudel, R., & Preux, P. (2016). Scalable explore-exploit collaborative filtering. In Pacific Asia Conference On Information Systems (PACIS). Association For Information System.
+* Teo, C. H., Nassif, H., Hill, D., Srinivasan, S., Goodman, M., Mohan, V., & Vishwanathan, S. V. N. (2016). Adaptive, personalized diversity for visual discovery. In Proceedings of the 10th ACM conference on recommender systems (pp. 35-38).
 
+<!--
 ### Semana 4 a 7
 
 Sin lecturas

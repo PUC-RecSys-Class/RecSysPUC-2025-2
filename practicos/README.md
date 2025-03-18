@@ -1,4 +1,16 @@
 ## Prácticos Sistemas Recomendadores IIC3633
+
+## Material 2025
+A continuación encontrarán la lista de los prácticos que deberán realizar durante este semestre.
+
+| #  | Práctico                                                                                                                                  | Semana | Fecha Ayudantía | Encargad@    | Video                                                                                                                                                                                             |
+|----|-------------------------------------------------------------------------------------------------------------------------------------------|--------|-----------------|--------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1  | [uKNN](https://github.com/PUC-RecSys-Class/RecSysPUC-2025-1/blob/master/practicos/01_uKNN_Surprise.ipynb) y [iKNN](https://github.com/PUC-RecSys-Class/RecSysPUC-2025-1/blob/master/practicos/01_iKNN_Surprise.ipynb)                       | 2      | 10 de marzo       | Alejandro P. | |
+| 2  | [FunkSVD](https://github.com/PUC-RecSys-Class/RecSysPUC-2025-1/blob/master/practicos/02_pyRecLab_FunkSVD.ipynb)                             | 3      | 17 de marzo       | Daniel S. | |
+
+
+
+
 ## Material 2024
 
 A continuación encontrarán la lista de los prácticos que deberán realizar durante este semestre.
