@@ -19,7 +19,8 @@ Marzo-Julio 2025
 
 ### AVISOS
 
-Se publicarán avisos con enlaces a recursos importantes del ramo en el transcurso del semestre.
+**Tarea 1** (18/03):
+- Se publicó el enunciado de la [Tarea 1](https://github.com/PUC-RecSys-Class/RecSysPUC-2025-1/blob/master/tareas/Tarea_1_RecSys_2025_1.pdf), con fecha de entrega el dia **viernes 11 de abril del 2025** a las **20:00**.
 
 ### Descripción del Curso
 
