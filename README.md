@@ -64,6 +64,10 @@ Los contenidos de las semanas 1, 2 y 4 los puedes revisar a tu ritmo en este cur
 | 11      | Sistemas Justos, Explicables y Transparentes                              | [slides](./clases/s11_FAccT.pdf)    | 
 | 12       | 10 problemas en Sistemas de Recomendación                                     |   [slides](./clases/s12_c2_10bigproblems-recsys-small.pdf)       | 
 
+### Planficación 2025-I
+
+![Image](https://github.com/user-attachments/assets/fdced65a-c927-475e-bf1c-fb224305fbb7)
+
 ### Código de Honor
 
 Este curso adscribe el Código de Honor establecido por la Escuela de Ingeniería el que es vinculante. Todo trabajo evaluado en este curso debe ser propio. En caso de que exista colaboración permitida con otros estudiantes, el trabajo deberá referenciar y atribuir correctamente dicha contribución a quien corresponda. Como estudiante es su deber conocer la versión en línea del Código de Honor.
