@@ -19,6 +19,9 @@ Marzo-Julio 2025
 
 ### AVISOS
 
+**Sala Clases 25/03 y 27/03**:
+- Como todavía no es oficial el cambio de sala, durante esta semana se continuará utilizando la sala K303 para las clases.
+
 **Grupos Tarea 1** (24/03):
 - Se publicó el listado de [grupos de trabajo](https://uccl0-my.sharepoint.com/:x:/g/personal/dparras_uc_cl/EQMYwiUukqhHkQncyoqFFygBrzHmjLCke9rhwskS9T3WxA?e=YY8ngc) para la Tarea 1.
 
