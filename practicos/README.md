@@ -7,6 +7,7 @@ A continuación encontrarán la lista de los prácticos que deberán realizar du
 |----|-------------------------------------------------------------------------------------------------------------------------------------------|--------|-----------------|--------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 1  | [uKNN](https://github.com/PUC-RecSys-Class/RecSysPUC-2025-1/blob/master/practicos/01_uKNN_Surprise.ipynb) y [iKNN](https://github.com/PUC-RecSys-Class/RecSysPUC-2025-1/blob/master/practicos/01_iKNN_Surprise.ipynb)                       | 2      | 10 de marzo       | Alejandro P. | |
 | 2  | [FunkSVD](https://github.com/PUC-RecSys-Class/RecSysPUC-2025-1/blob/master/practicos/02_pyRecLab_FunkSVD.ipynb)                             | 3      | 17 de marzo       | Daniel S. | |
+| 3  | [Implicit Feedback](https://github.com/PUC-RecSys-Class/RecSysPUC-2025-1/blob/master/practicos/03_Implicit_feedback_Implicit.ipynb)                             | 4      | 24 de marzo       | Daniel S. | |
 
 
 
