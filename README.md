@@ -19,7 +19,7 @@ Marzo-Julio 2025
 
 ### AVISOS
 
-**Sala Clases 25/03 y 27/03**:
+**Sala Clases 25/03 y 27/03** (24/03):
 - Como todavía no es oficial el cambio de sala, durante esta semana se continuará utilizando la sala K303 para las clases.
 
 **Grupos Tarea 1** (24/03):
