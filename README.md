@@ -10,7 +10,7 @@ Marzo-Julio 2025
  
 **Institución**: Pontificia Universidad Católica de Chile
 
-**Horario cátedra**: Martes y Jueves, Módulo 3, sala K303 (11:00 a 12:10).\
+**Horario cátedra**: Martes y Jueves, Módulo 3 (11:00 a 12:10). Salas TMP104 y TMP105 respectivamente.\
 **Horario ayudantía**: Lunes, Módulo 5, sala H1 (14:50 a 16:00).
 
 **Sitio web lecturas**: [Perusall](https://app.perusall.com/join/parra-4xnh9)
@@ -18,6 +18,9 @@ Marzo-Julio 2025
 **Programa** IIC3633, 1er Semestre 2025: [pdf](https://dparra.sitios.ing.uc.cl/pdfs/IIC3633Sist%20Recomendadores_v5.pdf).
 
 ### AVISOS
+
+**Grupos Tarea 1** (24/03):
+- Se publicó el listado de [grupos de trabajo](https://uccl0-my.sharepoint.com/:x:/g/personal/dparras_uc_cl/EQMYwiUukqhHkQncyoqFFygBrzHmjLCke9rhwskS9T3WxA?e=YY8ngc) para la Tarea 1.
 
 **Tarea 1** (18/03):
 - Se publicó el enunciado de la [Tarea 1](https://github.com/PUC-RecSys-Class/RecSysPUC-2025-1/blob/master/tareas/Tarea_1_RecSys_2025_1.pdf), con fecha de entrega el dia **viernes 11 de abril del 2025** a las **20:00**.
