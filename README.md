@@ -19,6 +19,9 @@ Marzo-Julio 2025
 
 ### AVISOS
 
+**Cambio de Sala Oficializado** (31/03):
+- El cambio de sala de la cátedra del curso ya es oficial y las nuevas salas se encuentran actualizadas tanto en el portal, en buscacursos y en este README. Tener cuidado con la sala, puesto que no es la misma los días martes y jueves.
+
 **Sala Clases 25/03 y 27/03** (24/03):
 - Como todavía no es oficial el cambio de sala, durante esta semana se continuará utilizando la sala K303 para las clases.
 
