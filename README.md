@@ -63,7 +63,7 @@ Los contenidos de las semanas 1, 2 y 4 los puedes revisar a tu ritmo en este cur
 | 5/6       | **Máquinas de Factorización**                             | [slides](./clases/s6_c2_p2-FMachines.pdf)    | 
 | 6       | **Recomendación híbrida**                                 | [slides](./clases/s6_c1-hibridos.pdf)    | 
 | 6       | **Recomendación por ensambles**                           | [slides](./clases/s6_c2_p3-blending_ensemble.pdf)    |
-| 7       | **Deep Learning I: Intro**                             |  [slides](./clases/s7_c1_deep_learning.pdf)    | 
+| 6       | **Deep Learning I: Intro**                             |  [slides](./clases/s6_c2_DeepL_CF.pdf)    | 
 | 7       | Deep Learning II: Tres proyectos                             |  [slides](./clases/s7_c2_deep_learning_s.pdf)    |
 | 7       | **Ideas de proyecto final (2024)**                            |  [slides](./clases/ideas_proyectos-2024-IIC3633.pdf)    |
 | 8-9       |  Bandidos multibrazos                            | [slides](https://drive.google.com/file/d/1SlDt7UCDrtJBIPUxAMjhqzsjz6uelyIn/view?usp=sharing)    |
