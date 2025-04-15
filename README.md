@@ -19,6 +19,9 @@ Marzo-Julio 2025
 
 ### AVISOS
 
+**Proyecto de Curso (15/04)**:
+- Se publicó el enunciado del [Proyecto de Curso](https://github.com/PUC-RecSys-Class/RecSysPUC-2025-1/blob/master/proyecto/Enunciado_Proyecto_Final_RecSys_2025_1.pdf), donde se pueden ver las fechas y requesitos de cada entrega.
+
 **Cambio de Sala Oficializado** (31/03):
 - El cambio de sala de la cátedra del curso ya es oficial y las nuevas salas se encuentran actualizadas tanto en el portal, en buscacursos y en este README. Tener cuidado con la sala, puesto que no es la misma los días martes y jueves.
 
