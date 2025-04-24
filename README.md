@@ -19,6 +19,9 @@ Marzo-Julio 2025
 
 ### AVISOS
 
+**Papers de Seminarios (24/04)**:
+- Se encuentra disponible el [Excel de inscripción de papers](https://uccl0-my.sharepoint.com/:x:/g/personal/dparras_uc_cl/EfunNfo_mEhArjucY4srQ_8BeTXdutC6Z_26eIhJvLjBug?e=9aSqWe), donde tienen hasta el jueves 8 de mayo hasta las 20:00 para inscribir un paper junto a su grupo.
+
 **Proyecto de Curso (15/04)**:
 - Se publicó el enunciado del [Proyecto de Curso](https://github.com/PUC-RecSys-Class/RecSysPUC-2025-1/blob/master/proyecto/Enunciado_Proyecto_Final_RecSys_2025_1.pdf), donde se pueden ver las fechas y requesitos de cada entrega.
 
