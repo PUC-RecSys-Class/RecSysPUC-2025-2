@@ -9,6 +9,10 @@ A continuación encontrarán la lista de los prácticos que deberán realizar du
 | 2  | [FunkSVD](https://github.com/PUC-RecSys-Class/RecSysPUC-2025-1/blob/master/practicos/02_pyRecLab_FunkSVD.ipynb)                             | 3      | 17 de marzo       | Daniel S. | |
 | 3  | [Implicit Feedback](https://github.com/PUC-RecSys-Class/RecSysPUC-2025-1/blob/master/practicos/03_Implicit_feedback_Implicit.ipynb)                             | 4      | 24 de marzo       | Daniel S. | |
 | 4  | [Content Based texto](https://github.com/PUC-RecSys-Class/RecSysPUC-2025-1/blob/master/practicos/04_Content_Based_texto.ipynb)  y [Content Based imágenes](https://github.com/PUC-RecSys-Class/RecSysPUC-2025-1/blob/master/practicos/04_Content_Based_imagenes.ipynb)                            | 5      | 31 de marzo       | Alejandro P. | |
+| 5  | [LightFM](https://github.com/PUC-RecSys-Class/RecSysPUC-2025-1/blob/master/practicos/05_lightfm.ipynb)              | 6      | 7 de abril       | Daniel S. | |
+| 6  | [MultiVAE](https://github.com/PUC-RecSys-Class/RecSysPUC-2025-1/blob/master/practicos/06_MultiVAE.ipynb)              | 7      | 14 de abril       | Daniel S. | |
+| 7  | Recomendación Secuencial              | 10      | 5 de mayo       |  | |
+| 8  | Recomendación con RL (Bandits)              | 11      | 12 de mayo       |  | |
 
 
 
