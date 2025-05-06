@@ -82,7 +82,7 @@ Los contenidos de las semanas 1, 2 y 4 los puedes revisar a tu ritmo en este cur
 
 ### Planficación 2025-I
 
-![Image](./clases/Planificacion%20IIC3633%202025-1.png)
+<img width="1064" alt="Image" src="https://github.com/user-attachments/assets/81ed2caf-dd53-4aac-888b-2be3757851aa" />
 
 ### Código de Honor
 
