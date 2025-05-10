@@ -12,7 +12,7 @@ A continuación encontrarán la lista de los prácticos que deberán realizar du
 | 5  | [LightFM](https://github.com/PUC-RecSys-Class/RecSysPUC-2025-1/blob/master/practicos/05_lightfm.ipynb)              | 6      | 7 de abril       | Daniel S. | |
 | 6  | [MultiVAE](https://github.com/PUC-RecSys-Class/RecSysPUC-2025-1/blob/master/practicos/06_MultiVAE.ipynb)              | 7      | 14 de abril       | Daniel S. | |
 | 7  | [Recomendación con Reinforcement Learning](https://github.com/PUC-RecSys-Class/RecSysPUC-2025-1/blob/master/practicos/07_Reinforcement_Learning_Mabwiser)              | 10      | 5 de mayo       | Alejandro P. |  |
-| 8  | [Recomendación Secuencial](https://github.com/PUC-RecSys-Class/RecSysPUC-2025-1/blob/master/practicos/08_GRU4Rec.ipynb)              | 11      | 12 de mayo       | Alejandro P. | |
+| 8  | [Recomendación Secuencial](https://github.com/PUC-RecSys-Class/RecSysPUC-2025-1/blob/master/practicos/08_GRU4Rec.ipynb)              | 11      | 13 de mayo       | Alejandro P. | |
 
 
 
