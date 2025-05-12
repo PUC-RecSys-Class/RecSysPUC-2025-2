@@ -19,6 +19,9 @@ Marzo-Julio 2025
 
 ### AVISOS
 
+**Fechas de Seminarios (12/05)**:
+- Se publicó el listado definitivo de [papers y grupos de seminario](https://uccl0-my.sharepoint.com/:x:/g/personal/dparras_uc_cl/EfyGP1fWSZtNiaN-MMAVe5oBsUlU5WtnYNzG5inT2dDxwA?e=183oxZ). Además, se publicó el archivo para inscribir la [fecha de presentación](https://uccl0-my.sharepoint.com/:x:/g/personal/dparras_uc_cl/ESvMv0yEcL1OiuPmfHbwIhABpoFv6BV_ntdshYcQdWCPfw?e=yg0C7h) del seminario, el cual tienen hasta el viernes 16 de mayo para inscribir.
+
 **Papers de Seminarios (24/04)**:
 - Se encuentra disponible el [Excel de inscripción de papers](https://uccl0-my.sharepoint.com/:x:/g/personal/dparras_uc_cl/EfunNfo_mEhArjucY4srQ_8BeTXdutC6Z_26eIhJvLjBug?e=9aSqWe), donde tienen hasta el jueves 8 de mayo hasta las 20:00 para inscribir un paper junto a su grupo.
 
