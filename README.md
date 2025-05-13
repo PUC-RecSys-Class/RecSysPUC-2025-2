@@ -40,6 +40,9 @@ Marzo-Julio 2025
 **Tarea 1** (18/03):
 - Se publicó el enunciado de la [Tarea 1](https://github.com/PUC-RecSys-Class/RecSysPUC-2025-1/blob/master/tareas/Tarea_1_RecSys_2025_1.pdf), con fecha de entrega el dia **viernes 11 de abril del 2025** a las **20:00**.
 
+**Seminario** (13/05):
+- Se actualizó el archivo de evaluaciones con la rúbrica de las presentaciones de seminario.
+
 ### Descripción del Curso
 
 El curso de Sistemas Recomendadores cubre las principales tareas de recomendación, algoritmos, fuentes de datos y evaluación de estos sistemas. Al final de este curso serás capaz de decidir qué técnicas y fuentes de datos usar para implementar y evaluar sistemas recomendadores.
