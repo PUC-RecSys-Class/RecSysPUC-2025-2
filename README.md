@@ -90,6 +90,8 @@ Los contenidos de las semanas 1, 2 y 4 los puedes revisar a tu ritmo en este cur
 
 <img width="1064" alt="Image" src="./clases/Planificacion IIC3633 2025-1.png" />
 
+<!--img width="1064" alt="Image" src="https://github.com/user-attachments/assets/fd10700a-4ce6-44a7-adf7-87dd4426b417" /-->
+
 ### Código de Honor
 
 Este curso adscribe el Código de Honor establecido por la Escuela de Ingeniería el que es vinculante. Todo trabajo evaluado en este curso debe ser propio. En caso de que exista colaboración permitida con otros estudiantes, el trabajo deberá referenciar y atribuir correctamente dicha contribución a quien corresponda. Como estudiante es su deber conocer la versión en línea del Código de Honor.
