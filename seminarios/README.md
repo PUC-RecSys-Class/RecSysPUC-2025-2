@@ -4,11 +4,11 @@
 
 - La rúbrica actualizada de evaluación está disponible en la [slide 11 de la presentación de evaluaciones del curso](https://uccl0-my.sharepoint.com/:p:/g/personal/dparras_uc_cl/EZ8G_FkyCKJAt6Fx23H7GWkBKl6ZeEdF9v222wJ5vAD5kA?e=xKdyxv&nav=eyJzSWQiOjI3MSwiY0lkIjoxODI4ODEzNjkzfQ). 
 
-- El calendario de presentaciones está publicado y disponible en este [enlace](https://uccl0-my.sharepoint.com/:x:/g/personal/dparras_uc_cl/ESvMv0yEcL1OiuPmfHbwIhABYW88ByAst9RWuDhkNIRkmg?e=SHOzqg).
+- El [calendario de presentaciones](https://uccl0-my.sharepoint.com/:x:/g/personal/dparras_uc_cl/ESvMv0yEcL1OiuPmfHbwIhABYW88ByAst9RWuDhkNIRkmg?e=SHOzqg) está publicado y disponible en el enlace adjunto.
 
 - En Canvas está disponible el buzón donde se debe entregar el material correspondiente a su seminario, el cual deben enviar hasta las **20:00 hrs del día anterior de su presentación**.
 
-- El formulario de coevaluación lo pueden encontrar en el siguiente enlace (próximamente disponible).
+- El [formulario de coevaluación](https://docs.google.com/forms/d/e/1FAIpQLSeVBcs37GbTIGxhxPoKGO5fC6epojtGuq69NUSO6vDNsg6exw/viewform?usp=preview) lo pueden encontrar en el enlace adjunto.
 
 ## Cronograma y material de seminarios
 
