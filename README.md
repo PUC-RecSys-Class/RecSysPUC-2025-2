@@ -10,8 +10,8 @@ Agosto-Diciembre 2025
  
 **Institución**: Pontificia Universidad Católica de Chile
 
-**Horario cátedra**: Martes y Jueves, Módulo 3 (11:00 a 12:10). Salas TMP104 y NT202 respectivamente.\
-**Horario ayudantía**: Lunes, Módulo 5, sala H1 (14:50 a 16:00).
+**Horario cátedra**: Martes y Jueves, Módulo 3 (11:00 a 12:10). Sala B24.\
+**Horario ayudantía**: Lunes, Módulo 5 (14:50 a 16:00). Sala B18.\
 
 **Sitio web lecturas**: [Perusall](https://app.perusall.com/join/parra-4xnh9)
 
