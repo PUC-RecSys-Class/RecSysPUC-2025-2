@@ -6,7 +6,7 @@ Agosto-Diciembre 2025
 
 **Ayudantes**:
 * [Alejandro Plaza](#), Estudiante de Magíster, Ciencia de la Computación PUC Chile (aplaza2@uc.cl).
-* [Daniel Sebastian](#), Estudiante de Magíster, Ciencia de la Computación PUC Chile (daniel.sebastian@uc.cl).
+* [Juan Manuel Hernandez](#), Estudiante de Magíster, Ciencia de la Computación PUC Chile (juan_manuel1402@uc.cl).
  
 **Institución**: Pontificia Universidad Católica de Chile
 
