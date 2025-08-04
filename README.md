@@ -15,33 +15,11 @@ Agosto-Diciembre 2025
 
 **Sitio web lecturas**: [Perusall](https://app.perusall.com/join/parra-4xnh9)
 
-**Programa** IIC3633, 1er Semestre 2025: [pdf](https://dparra.sitios.ing.uc.cl/pdfs/IIC3633Sist%20Recomendadores_v5.pdf).
+**Programa** IIC3633, 2do Semestre 2025: [pdf](https://dparra.sitios.ing.uc.cl/pdfs/IIC3633Sist%20Recomendadores_v5.pdf).
 
 ### AVISOS
 
-**Fechas de Seminarios (12/05)**:
-- Se publicó el listado definitivo de [papers y grupos de seminario](https://uccl0-my.sharepoint.com/:x:/g/personal/dparras_uc_cl/EfyGP1fWSZtNiaN-MMAVe5oBsUlU5WtnYNzG5inT2dDxwA?e=183oxZ). Además, se publicó el archivo para inscribir la [fecha de presentación](https://uccl0-my.sharepoint.com/:x:/g/personal/dparras_uc_cl/ESvMv0yEcL1OiuPmfHbwIhABpoFv6BV_ntdshYcQdWCPfw?e=yg0C7h) del seminario, el cual tienen hasta el viernes 16 de mayo para inscribir.
-
-**Papers de Seminarios (24/04)**:
-- Se encuentra disponible el [Excel de inscripción de papers](https://uccl0-my.sharepoint.com/:x:/g/personal/dparras_uc_cl/EfunNfo_mEhArjucY4srQ_8BeTXdutC6Z_26eIhJvLjBug?e=9aSqWe), donde tienen hasta el jueves 8 de mayo hasta las 20:00 para inscribir un paper junto a su grupo.
-
-**Proyecto de Curso (15/04)**:
-- Se publicó el enunciado del [Proyecto de Curso](https://github.com/PUC-RecSys-Class/RecSysPUC-2025-1/blob/master/proyecto/Enunciado_Proyecto_Final_RecSys_2025_1.pdf), donde se pueden ver las fechas y requesitos de cada entrega.
-
-**Cambio de Sala Oficializado** (31/03):
-- El cambio de sala de la cátedra del curso ya es oficial y las nuevas salas se encuentran actualizadas tanto en el portal, en buscacursos y en este README. Tener cuidado con la sala, puesto que no es la misma los días martes y jueves.
-
-**Sala Clases 25/03 y 27/03** (24/03):
-- Como todavía no es oficial el cambio de sala, durante esta semana se continuará utilizando la sala K303 para las clases.
-
-**Grupos Tarea 1** (24/03):
-- Se publicó el listado de [grupos de trabajo](https://uccl0-my.sharepoint.com/:x:/g/personal/dparras_uc_cl/EQMYwiUukqhHkQncyoqFFygBrzHmjLCke9rhwskS9T3WxA?e=YY8ngc) para la Tarea 1.
-
-**Tarea 1** (18/03):
-- Se publicó el enunciado de la [Tarea 1](https://github.com/PUC-RecSys-Class/RecSysPUC-2025-1/blob/master/tareas/Tarea_1_RecSys_2025_1.pdf), con fecha de entrega el dia **viernes 11 de abril del 2025** a las **20:00**.
-
-**Seminario** (13/05):
-- Se actualizó el archivo de evaluaciones con la rúbrica de las presentaciones de seminario.
+En esta sección se publicarán los anuncios del curso (que también serán publicados en Canvas).
 
 ### Descripción del Curso
 
@@ -86,9 +64,9 @@ Los contenidos de las semanas 1, 2 y 4 los puedes revisar a tu ritmo en este cur
 | 11      | Sistemas Justos, Explicables y Transparentes                              | [slides](./clases/s11_FAccT.pdf)    | 
 | 12       | 10 problemas en Sistemas de Recomendación                                     |   [slides](./clases/s12_c2_10bigproblems-recsys-small.pdf)       | 
 
-### Planficación 2025-I
+### Planficación 2025-2
 
-<img width="1064" alt="Image" src="./clases/Planificacion IIC3633 2025-1.png" />
+<img width="1064" alt="Image" src="./clases/Planificacion IIC3633 2025-2.png" />
 
 <!--img width="1064" alt="Image" src="https://github.com/user-attachments/assets/fd10700a-4ce6-44a7-adf7-87dd4426b417" /-->
 
@@ -100,7 +78,7 @@ Este curso adscribe el Código de Honor establecido por la Escuela de Ingenierí
 
 ### Evaluaciones
 
-Detalles de las evaluaciones en [esta presentacion](https://uccl0-my.sharepoint.com/:p:/g/personal/dparras_uc_cl/EZ8G_FkyCKJAt6Fx23H7GWkBKl6ZeEdF9v222wJ5vAD5kA?e=9CvDt5)
+Detalles de las evaluaciones en [esta presentacion](https://uccl0-my.sharepoint.com/:p:/g/personal/dparras_uc_cl/EXYRRp0mCFxAv-AqBKfZPTsBTiBVNDmf2qWQ9kNDJVxEqQ?e=PQQgjV)
 
 **Prácticos (10%)** 
 
@@ -108,27 +86,30 @@ Habrá una actividad práctica relacionada a cada ayudantía, la cual consistir�
 
 **Tarea 1 (20%)**
 
-Al final de las primeras 4 semanas, las(los) estudiantes implementarán mecanismos de recomendación para predecir ratings y para rankear items en un dataset que se entregará durante clases.
+Se realizará una tarea que constará de dos partes:
+
+- Interrogación métricas (30%): Se realizará un práctico en clases (martes 26 de agosto) acerca de métricas y se entregará a final de la clase​. La inasistencia no justificada equivaldrá a un 1.0.
+- Tarea (70%): Deberán implementar mecanismos de recomendación para predecir ratings y para rankear items en un dataset entregado por el cuerpo docente.
 
 **Lecturas Semanales (5%)**
 
-Cada alumno debe crear una cuenta en el sitio [Perusall](https://app.perusall.com) con su correo UC (codigo de curso **PARRA-4XNH9**). Cada semana deberá escribir 5 comentarios propios y 2 comentarios respondiendo a sus compañeros en los módulos de las lecturas marcadas como obligatorias.
+Cada alumno debe crear una cuenta en el sitio [Perusall](https://app.perusall.com/join/parra-2av7y) con su correo UC (codigo de curso **PARRA-2AV7Y**). Cada semana deberá escribir 5 comentarios propios y 2 comentarios respondiendo a sus compañeros en los módulos de las lecturas marcadas como obligatorias.
 
 Para descargar los archivos se sugiere buscarlos en [Scholar](https://scholar.google.cl) o a través de [EZProxy](https://login.pucdechile.idm.oclc.org/).
 
-Fecha de revisión de comentarios de lecturas: El post de la semana x, tiene fecha de entrega el lunes a las 20:00 de la semana x+1. Ejemplo: Los comentarios de las lecturas de la semana 1 (clase el 6 de marzo) se entregan a más tardar el lunes 10 de marzo de 2025 a las 20:00.
+Fecha de revisión de comentarios de lecturas: El post de la semana x, tiene fecha de entrega el lunes a las 20:00 de la semana x + 1. Ejemplo: Los comentarios de las lecturas de la semana 1 (clase del 5 de agosto) se entregan a más tardar el lunes 11 de agosto a las 20:00.
 
 **Seminario (25%)**
 
-En la segunda mitad del semestre, los estudiantes formarán grupos para leer un artículo y realizar una presentación acerca de este frente al resto del curso. Se anunciarán las fechas y los artículos presentables de manera oportuna.
+En la segunda mitad del semestre, los estudiantes formarán grupos para leer un artículo y realizar una presentación acerca de este frente al resto del curso. Las presentaciones se realizarán entre las clases del 21 de octubre y 20 de noviembre. Los artículos a presentar se publicarán el martes 23 de septiembre.
 
 **Proyecto Final (40%)** 
 
-Durante abril, las(los) estudiantes enviarán una idea de proyecto final, la cual desarrollarán durante mayo y junio. Enviarán un informe de avance a fines de octubre, para hacer una presentación de su proyecto al final del curso en una sesión de posters.
+A inicios de octubre, las(los) estudiantes enviarán una idea de proyecto final, la cual desarrollarán durante octubre, noviembre e inicios de diciembre. Enviarán un informe de avance a fines de octubre, para hacer una presentación de su proyecto al final del curso en una sesión de posters, además de un informe formato paper.
 
 **IMPORTANTE**: Todas las entregas del curso son a las 20:00 del día de entrega correspondiente.
 
-### Semana 1 (entrega el 10 de marzo):  
+### Semana 1 (entrega el 11 de agosto):  
 
 **Obligatorias**  
 * Kluver, D., Ekstrand, M. D., & Konstan, J. A. (2018). Rating-based collaborative filtering: algorithms and evaluation. Social information access: Systems and technologies, 344-390.
@@ -136,12 +117,12 @@ Durante abril, las(los) estudiantes enviarán una idea de proyecto final, la cua
 **secciones (1-6)**
 
 **Sugeridas**
-* Schafer, J. B., Frankowski, D., Herlocker, J., & Sen, S. (2007). Collaborative filtering recommender systems. In The adaptive web (pp. 291-324). Springer Berlin Heidelberg. [pdf](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.130.4520&rep=rep1&type=pdf)
+* Schafer, J. B., Frankowski, D., Herlocker, J., & Sen, S. (2007). Collaborative filtering recommender systems. In The adaptive web (pp. 291-324). Springer Berlin Heidelberg.
 * Sarwar, B., Karypis, G., Konstan, J., & Riedl, J. (2001). Item-based collaborative filtering recommendation algorithms. In Proceedings of the 10th international conference on World Wide Web (pp. 285-295).
 * [Post original FunkSVD](https://sifter.org/~simon/journal/20061211.html)  
 * Lemire, D., & Maclachlan, A. (2005). Slope One Predictors for Online Rating-Based Collaborative Filtering. In SDM (Vol. 5, pp. 1-5).
 
-### Semana 2 (entrega el 17 de marzo):
+### Semana 2 (entrega el 18 de agosto):
 
 **Obligatorias**  
 
@@ -153,24 +134,24 @@ Durante abril, las(los) estudiantes enviarán una idea de proyecto final, la cua
 * Hu, Y., Koren, Y., & Volinsky, C. (2008). Collaborative filtering for implicit feedback datasets. In Data Mining, 2008. ICDM’08. Eighth IEEE International Conference on (pp. 263-272). IEEE.  
 * Takács, G., Pilászy, I., Németh, B., & Tikk, D. (2009). Scalable collaborative filtering approaches for large recommender systems. Journal of machine learning research, 10(Mar), 623-656.  
 * Rendle, S., Freudenthaler, C., Gantner, Z., & Schmidt-Thieme, L. (2009). BPR: Bayesian personalized ranking from implicit feedback. In Proceedings of the Twenty-Fifth Conference on Uncertainty in Artificial Intelligence (pp. 452-461). AUAI Press.
-* Koren, Y., Bell, R., & Volinsky, C. (2009). Matrix factorization techniques for recommender systems. Computer, 42(8), 30-37. [pdf](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.441.3234&rep=rep1&type=pdf)
+* Koren, Y., Bell, R., & Volinsky, C. (2009). Matrix factorization techniques for recommender systems. Computer, 42(8), 30-37.
 * Pan, R., Zhou, Y., Cao, B., Liu, N. N., Lukose, R., Scholz, M., & Yang, Q. (2008). One-class collaborative filtering. In 2008 Eighth IEEE International Conference on Data Mining (pp. 502-511). IEEE. En este artículo aparecen la derivación y reglas de actualización de los parámetros así como las nociones de AMAN y AMAU.
 * Jannach, D., Lerche, L., & Zanker, M. (2018). Recommending based on implicit feedback. In Social Information Access (pp. 510-569). Springer, Cham.
 * Srebro, N., & Jaakkola, T. (2003). Weighted low-rank approximations. In Proceedings of the 20th International Conference on Machine Learning (ICML-03) (pp. 720-727). Artículo citado por Pan et al. (2008) indicando detalles de la versión no regularizada que inspira OCCF.
 * El siguiente paper es opcional, pero permite entender cómo se deriva <a href="https://www.codecogs.com/eqnedit.php?latex=y_i=(X^TC^iX&plus;&space;\lambda&space;I)^{-1}&space;X^TC^ip(i)" target="_blank"><img src="https://latex.codecogs.com/gif.latex?y_i=(X^TC^iX&plus;&space;\lambda&space;I)^{-1}&space;X^TC^ip(i)" title="y_i=(X^TC^iX+ \lambda I)^{-1} X^TC^ip(i)" /></a> e <a href="https://www.codecogs.com/eqnedit.php?latex=x_u=(Y^TC^uY&plus;&space;\lambda&space;I)^1&space;Y^TC^up(u)" target="_blank"><img src="https://latex.codecogs.com/gif.latex?x_u=(Y^TC^uY&plus;&space;\lambda&space;I)^{-1}&space;Y^TC^up(u)" title="x_u=(Y^TC^uY+ \lambda I)^1 Y^TC^up(u)" /></a> del paper de Hu et al.: Takács, G., Pilászy, I., & Tikk, D. (2011). Applications of the conjugate gradient method for implicit feedback collaborative filtering. In Proceedings of the fifth ACM conference on Recommender systems (pp. 297-300). ACM.
 * Verstrepen, K., Bhaduriy, K., Cule, B., & Goethals, B. (2017). Collaborative filtering for binary, positiveonly data. ACM Sigkdd Explorations Newsletter, 19(1), 1-21.
 
-### Semana 3 (entrega 22 de abril):
+### Semana 8 (entrega 29 de septiembre):
+Por definir. Tema: Deep Learning
 
-**Obligatorias**  
-* Xin, X., Karatzoglou, A., Arapakis, I., & Jose, J. M. (2020, July). Self-supervised reinforcement learning for recommender systems. In Proceedings of the 43rd International ACM SIGIR conference on research and development in Information Retrieval (pp. 931-940).
+### Semana 9 (entrega 06 de octubre):
+Por definir. Tema: Reinforcement Learning
 
-**Sugeridas**  
-* Cañamares, R., Redondo, M., & Castells, P. (2019). Multi-armed recommender system bandit ensembles. In Proceedings of the 13th ACM Conference on Recommender Systems (pp. 432-436).
-* Bendada, W., Salha, G., & Bontempelli, T. (2020). Carousel Personalization in Music Streaming Apps with Contextual Bandits. In Fourteenth ACM Conference on Recommender Systems (pp. 420-425).
-* Lacerda, A., Santos, R. L., Veloso, A., & Ziviani, N. (2015). Improving daily deals recommendation using explore-then-exploit strategies. Information Retrieval Journal, 18(2), 95-122.
-* Guillou, F., Gaudel, R., & Preux, P. (2016). Scalable explore-exploit collaborative filtering. In Pacific Asia Conference On Information Systems (PACIS). Association For Information System.
-* Teo, C. H., Nassif, H., Hill, D., Srinivasan, S., Goodman, M., Mohan, V., & Vishwanathan, S. V. N. (2016). Adaptive, personalized diversity for visual discovery. In Proceedings of the 10th ACM conference on recommender systems (pp. 35-38).
+### Semana 10 (entrega 13 de octubre):
+Por definir. Tema: Caso práctico
+
+### Semana 11 (entrega 20 de octubre):
+Por definir. Tema: FAccT
 
 <!--
 ### Semana 4 a 7
