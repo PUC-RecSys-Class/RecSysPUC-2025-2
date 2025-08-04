@@ -16,7 +16,7 @@ Agosto-Diciembre 2025
 
 **Sitio web lecturas**: [Perusall](https://app.perusall.com/join/parra-2av7y)
 
-**Programa** IIC3633, 2do Semestre 2025: [pdf](https://dparra.sitios.ing.uc.cl/pdfs/IIC3633Sist%20Recomendadores_v5.pdf).
+**Programa** IIC3633, 2do Semestre 2025: [pdf](documentos/IIC3633Sist%20Recomendadores_v5.pdf)
 
 ### AVISOS
 
@@ -67,7 +67,7 @@ Los contenidos de las semanas 1, 2 y 4 los puedes revisar a tu ritmo en este cur
 
 ### Planficación 2025-2
 
-<img width="1064" alt="Image" src="./clases/Planificacion IIC3633 2025-2.png" />
+<img width="1064" alt="Image" src="./documentos/Planificacion IIC3633 2025-2.png" />
 
 <!--img width="1064" alt="Image" src="https://github.com/user-attachments/assets/fd10700a-4ce6-44a7-adf7-87dd4426b417" /-->
 
