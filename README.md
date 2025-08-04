@@ -13,7 +13,7 @@ Agosto-Diciembre 2025
 **Horario cátedra**: Martes y Jueves, Módulo 3 (11:00 a 12:10). Sala B24.\
 **Horario ayudantía**: Lunes, Módulo 5 (14:50 a 16:00). Sala B18.
 
-**Sitio web lecturas**: [Perusall](https://app.perusall.com/join/parra-4xnh9)
+**Sitio web lecturas**: [Perusall](https://app.perusall.com/join/parra-2av7y)
 
 **Programa** IIC3633, 2do Semestre 2025: [pdf](https://dparra.sitios.ing.uc.cl/pdfs/IIC3633Sist%20Recomendadores_v5.pdf).
 
