@@ -3,16 +3,18 @@
 ## Material 2025
 A continuación encontrarán la lista de los prácticos que deberán realizar durante este semestre.
 
-| #  | Práctico                                                                                                                                  | Semana | Fecha Ayudantía | Encargad@    | Video                                                                                                                                                                                             |
-|----|-------------------------------------------------------------------------------------------------------------------------------------------|--------|-----------------|--------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 1  | [uKNN](https://github.com/PUC-RecSys-Class/RecSysPUC-2025-1/blob/master/practicos/01_uKNN_Surprise.ipynb) y [iKNN](https://github.com/PUC-RecSys-Class/RecSysPUC-2025-1/blob/master/practicos/01_iKNN_Surprise.ipynb)                       | 2      | 10 de marzo       | Alejandro P. | |
-| 2  | [FunkSVD](https://github.com/PUC-RecSys-Class/RecSysPUC-2025-1/blob/master/practicos/02_pyRecLab_FunkSVD.ipynb)                             | 3      | 17 de marzo       | Daniel S. | |
-| 3  | [Implicit Feedback](https://github.com/PUC-RecSys-Class/RecSysPUC-2025-1/blob/master/practicos/03_Implicit_feedback_Implicit.ipynb)                             | 4      | 24 de marzo       | Daniel S. | |
-| 4  | [Content Based texto](https://github.com/PUC-RecSys-Class/RecSysPUC-2025-1/blob/master/practicos/04_Content_Based_texto.ipynb)  y [Content Based imágenes](https://github.com/PUC-RecSys-Class/RecSysPUC-2025-1/blob/master/practicos/04_Content_Based_imagenes.ipynb)                            | 5      | 31 de marzo       | Alejandro P. | |
-| 5  | [LightFM](https://github.com/PUC-RecSys-Class/RecSysPUC-2025-1/blob/master/practicos/05_lightfm.ipynb)              | 6      | 7 de abril       | Daniel S. | |
-| 6  | [MultiVAE](https://github.com/PUC-RecSys-Class/RecSysPUC-2025-1/blob/master/practicos/06_MultiVAE.ipynb)              | 7      | 14 de abril       | Daniel S. | |
-| 7  | [Recomendación con Reinforcement Learning](https://github.com/PUC-RecSys-Class/RecSysPUC-2025-1/blob/master/practicos/07_Reinforcement_Learning_Mabwiser)              | 10      | 5 de mayo       | Alejandro P. |  |
-| 8  | [Recomendación Secuencial](https://github.com/PUC-RecSys-Class/RecSysPUC-2025-1/blob/master/practicos/08_GRU4Rec.ipynb)              | 11      | 13 de mayo       | Alejandro P. | |
+| #  | Práctico | Semana | Fecha Ayudantía | Encargad@    |                                                          |
+|----|----------|--------|-----------------|--------------|------------------|
+| 1  | [uKNN](https://github.com/PUC-RecSys-Class/RecSysPUC-2025-2/blob/master/practicos/01_uKNN_Surprise.ipynb) y [iKNN](https://github.com/PUC-RecSys-Class/RecSysPUC-2025-2/blob/master/practicos/01_iKNN_Surprise.ipynb)                                   | 2      | 11 de agosto       |  | |
+| 2  | [FunkSVD](https://github.com/PUC-RecSys-Class/RecSysPUC-2025-2/blob/master/practicos/02_pyRecLab_FunkSVD.ipynb)                                        | 3      | 18 de agosto       |  | 
+| 3  | [Implicit Feedback](https://github.com/PUC-RecSys-Class/RecSysPUC-2025-2/blob/master/practicos/03_Implicit_feedback_Implicit.ipynb)                             | 4      | 25 de agosto       |  |
+| 4  | [Content Based texto](https://github.com/PUC-RecSys-Class/RecSysPUC-2025-2/blob/master/practicos/04_Content_Based_texto.ipynb)  y [Content Based imágenes](https://github.com/PUC-RecSys-Class/RecSysPUC-2025-2/blob/master/practicos/04_Content_Based_imagenes.ipynb) | 5      | 1 de septiembre       |  | |
+| 5  | Híbridos y Ensambles                          | 6      | 4 de septiembre       | | 
+| 6  | [LightFM](https://github.com/PUC-RecSys-Class/RecSysPUC-2025-2/blob/master/practicos/06_lightfm.ipynb)                                       | 6      | 6 de septiembre       | | 
+| 7  | DeepFM             | 8      | 22 de septiembre       |  | |
+| 8  | [MultiVAE](https://github.com/PUC-RecSys-Class/RecSysPUC-2025-2/blob/master/practicos/08_MultiVAE.ipynb)                                     | 9      | 29 de septiembre       | |
+| 9  | [Recomendación con Reinforcement Learning](https://github.com/PUC-RecSys-Class/RecSysPUC-2025-2/blob/master/practicos/09_Reinforcement_Learning_Mabwiser)     | 10      | 6 de octubre       | |
+| 10 | [Recomendación Secuencial](https://github.com/PUC-RecSys-Class/RecSysPUC-2025-2/blob/master/practicos/10_GRU4Rec.ipynb)                     | 11      | 13 de octubre       | |
 
 
 
