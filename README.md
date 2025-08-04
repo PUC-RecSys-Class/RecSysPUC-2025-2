@@ -9,6 +9,7 @@ Agosto-Diciembre 2025
 * [Juan Manuel Hernandez](#), Estudiante de Magíster, Ciencia de la Computación PUC Chile (juan_manuel1402@uc.cl).
 * [Javiera Azócar](#JaviPeace), Estudiante de Pregrado, Ciencia de la Computación PUC Chile (javiera.azcar@uc.cl).
 * [Pedro Palma](#), Estudiante de Magíster, Ciencia de la Computación PUC Chile (pedro.palma@uc.cl)
+* [Nicolás Estévez](#), Estudiante de Magíster, Ciencia de la Computación PUC Chile (nestevez@uc.cl)
  
 **Institución**: Pontificia Universidad Católica de Chile
 
