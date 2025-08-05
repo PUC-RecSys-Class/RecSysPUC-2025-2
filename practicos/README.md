@@ -10,7 +10,7 @@ A continuación encontrarán la lista de los prácticos que deberán realizar du
 | 3  | [Implicit Feedback](https://github.com/PUC-RecSys-Class/RecSysPUC-2025-2/blob/master/practicos/03_Implicit_feedback_Implicit.ipynb)                             | 4      | 25 de agosto       |  |
 | 4  | [Content Based texto](https://github.com/PUC-RecSys-Class/RecSysPUC-2025-2/blob/master/practicos/04_Content_Based_texto.ipynb)  y [Content Based imágenes](https://github.com/PUC-RecSys-Class/RecSysPUC-2025-2/blob/master/practicos/04_Content_Based_imagenes.ipynb) | 5      | 1 de septiembre       |  | |
 | 5  | Híbridos y Ensambles                          | 6      | 4 de septiembre       | | 
-| 6  | [LightFM](https://github.com/PUC-RecSys-Class/RecSysPUC-2025-2/blob/master/practicos/06_lightfm.ipynb)                                       | 6      | 6 de septiembre       | | 
+| 6  | [LightFM](https://github.com/PUC-RecSys-Class/RecSysPUC-2025-2/blob/master/practicos/06_lightfm.ipynb)                                       | 6      | 15 de septiembre       | | 
 | 7  | DeepFM             | 8      | 22 de septiembre       |  | |
 | 8  | [MultiVAE](https://github.com/PUC-RecSys-Class/RecSysPUC-2025-2/blob/master/practicos/08_MultiVAE.ipynb)                                     | 9      | 29 de septiembre       | |
 | 9  | [Recomendación con Reinforcement Learning](https://github.com/PUC-RecSys-Class/RecSysPUC-2025-2/blob/master/practicos/09_Reinforcement_Learning_Mabwiser)     | 10      | 6 de octubre       | |
