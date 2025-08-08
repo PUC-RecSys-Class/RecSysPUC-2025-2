@@ -3,13 +3,13 @@
 ## Material 2025
 A continuación encontrarán la lista de los prácticos que deberán realizar durante este semestre.
 
-| #  | Práctico | Semana | Fecha Ayudantía | Encargad@    |                                                          |
-|----|----------|--------|-----------------|--------------|------------------|
-| 1  | [uKNN](https://github.com/PUC-RecSys-Class/RecSysPUC-2025-2/blob/master/practicos/01_uKNN_Surprise.ipynb) y [iKNN](https://github.com/PUC-RecSys-Class/RecSysPUC-2025-2/blob/master/practicos/01_iKNN_Surprise.ipynb)                                   | 2      | 11 de agosto       | Juan Manuel Hernandez | |
-| 2  | [FunkSVD](https://github.com/PUC-RecSys-Class/RecSysPUC-2025-2/blob/master/practicos/02_pyRecLab_FunkSVD.ipynb)                                        | 3      | 18 de agosto       |  | 
-| 3  | [Implicit Feedback](https://github.com/PUC-RecSys-Class/RecSysPUC-2025-2/blob/master/practicos/03_Implicit_feedback_Implicit.ipynb)                             | 4      | 25 de agosto       |  |
+| #  | Práctico | Semana | Fecha Ayudantía | Encargad@    |  
+|----|----------|--------|-----------------|--------------|
+| 1  | [uKNN](https://github.com/PUC-RecSys-Class/RecSysPUC-2025-2/blob/master/practicos/01_uKNN_Surprise.ipynb) y [iKNN](https://github.com/PUC-RecSys-Class/RecSysPUC-2025-2/blob/master/practicos/01_iKNN_Surprise.ipynb)                                   | 2      | 11 de agosto       | Juan Manuel Hernandez |
+| 2  | [FunkSVD](https://github.com/PUC-RecSys-Class/RecSysPUC-2025-2/blob/master/practicos/02_pyRecLab_FunkSVD.ipynb)                                        | 3      | 18 de agosto       | Alejandro Plaza |
+| 3  | [Implicit Feedback](https://github.com/PUC-RecSys-Class/RecSysPUC-2025-2/blob/master/practicos/03_Implicit_feedback_Implicit.ipynb)                             | 4      | 25 de agosto       | Pedro Palma |
 | 4  | [Content Based texto](https://github.com/PUC-RecSys-Class/RecSysPUC-2025-2/blob/master/practicos/04_Content_Based_texto.ipynb)  y [Content Based imágenes](https://github.com/PUC-RecSys-Class/RecSysPUC-2025-2/blob/master/practicos/04_Content_Based_imagenes.ipynb) | 5      | 1 de septiembre       | Nicolás Estévez | |
-| 5  | Híbridos y Ensambles                          | 6      | 4 de septiembre       | | 
+| 5  | Híbridos y Ensambles                          | 6      | 4 de septiembre       | Javiera Azócar | 
 | 6  | [LightFM](https://github.com/PUC-RecSys-Class/RecSysPUC-2025-2/blob/master/practicos/06_lightfm.ipynb)                                       | 6      | 8 de septiembre       | Nicolás Estévez | 
 | 7  | DeepFM             | 8      | 22 de septiembre       | Juan Manuel Hernandez | |
 | 8  | [MultiVAE](https://github.com/PUC-RecSys-Class/RecSysPUC-2025-2/blob/master/practicos/08_MultiVAE.ipynb)                                     | 9      | 29 de septiembre       | |
